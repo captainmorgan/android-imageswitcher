@@ -1,0 +1,1 @@
+Just fooling around with the Android ImageSwitcher widget and trying to add some functionality.  At this point, there is no reason to download my project; just an early experiment.
